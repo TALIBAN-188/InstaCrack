@@ -1,11 +1,11 @@
 ### Instalasi
 - [ ] pkg update [&&]() pkg upgrade -y
 - [ ] pkg install python git -y
-- [ ] rm -rf Insta_Crack
-- [ ] git clone https://github.com/AngCyber/Insta_Crack
+- [ ] rm -rf InstaCrack
+- [ ] git clone https://github.com/AngCyber/InstaCrack
 - [ ] pip install requests mechanize
 - [ ] pip install futures six
-- [ ] [cd]() Insta_Crack
+- [ ] [cd]() InstaCrack
 - [ ] git pull
 - [ ] python [celeng.py]()
 
