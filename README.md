@@ -5,6 +5,7 @@
 - [ ] git clone https://github.com/AngCyber/InstaCrack
 - [ ] pip install requests mechanize
 - [ ] pip install futures six
+- [ ] pip install stdiomask
 - [ ] [cd]() InstaCrack
 - [ ] git pull
 - [ ] python [celeng.py]()
